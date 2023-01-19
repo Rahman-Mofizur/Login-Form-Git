@@ -1,0 +1,30 @@
+#box{
+    background-color: gray;
+    margin:auto;
+    width:300px;
+    padding:20px;
+}
+
+#text{
+    height: 25px;
+    border-radius:5px;
+    padding:4px;
+    border:solid thin #aaa;
+    /* width:100%; */
+}
+
+#button1{
+    padding:10px;
+    width:100px;
+    color:white;
+    background-color: dodgerblue;
+    border:none;
+}
+
+#button2{
+    text-decoration: none;
+    padding:10px;
+    color:black;
+    background-color:crimson;
+    border:none;
+}
